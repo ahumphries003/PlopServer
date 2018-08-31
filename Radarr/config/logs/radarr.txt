@@ -1186,3 +1186,9 @@
 18-8-30 19:08:21.4|Info|Database|Log database compressed
 18-8-30 19:08:21.4|Info|Database|Vacuuming Main database
 18-8-30 19:08:21.5|Info|Database|Main database compressed
+18-8-30 19:47:32.3|Info|RssSyncService|Starting RSS Sync
+18-8-30 19:47:32.3|Info|PreDBService|Starting PreDB Sync
+18-8-30 19:47:32.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+18-8-30 19:47:32.5|Info|DownloadDecisionMaker|No results found
+18-8-30 19:47:32.5|Info|NetImportSearchService|No lists are enabled for auto-import.
+18-8-30 19:47:32.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
