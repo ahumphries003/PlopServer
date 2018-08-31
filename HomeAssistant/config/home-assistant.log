@@ -91,3 +91,19 @@ unused devices: <none>, template: {{ value["md0"][1] }})
 unused devices: <none>, template: {{ value["md0"][1] }})
 2018-08-30 19:35:45 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
 unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:36:46 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:37:47 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:38:48 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:39:49 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:40:50 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:41:51 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:42:52 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})
+2018-08-30 19:43:52 ERROR (MainThread) [homeassistant.helpers.template] Error parsing value: 'str object' has no attribute 'md0' (value: Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10] 
+unused devices: <none>, template: {{ value["md0"][1] }})

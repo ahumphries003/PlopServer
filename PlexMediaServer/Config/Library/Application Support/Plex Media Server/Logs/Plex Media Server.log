@@ -463,3 +463,31 @@ Aug 30, 2018 19:36:30.156 [0x7f5bd43ff700] DEBUG - Request: [10.0.0.1:54288 (Sub
 Aug 30, 2018 19:36:30.158 [0x7f5bdffff700] DEBUG - Request: [10.0.0.1:54292 (Subnet)] GET /clients (4 live) GZIP
 Aug 30, 2018 19:36:30.158 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:54288] 200 GET /clients (4 live) GZIP 3ms 397 bytes (pipelined: 1)
 Aug 30, 2018 19:36:30.159 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:54292] 200 GET /clients (4 live) GZIP 2ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:37:30.157 [0x7f5bd33ff700] DEBUG - Request: [10.0.0.1:54438 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:37:30.158 [0x7f5bdcfff700] DEBUG - Request: [10.0.0.1:54442 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:37:30.158 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:54438] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:37:30.159 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:54442] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:38:30.161 [0x7f5bddffd700] DEBUG - Request: [10.0.0.1:54610 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:38:30.162 [0x7f5bd43ff700] DEBUG - Request: [10.0.0.1:54616 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:38:30.162 [0x7f5bdefff700] DEBUG - Completed: [10.0.0.1:54610] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:38:30.163 [0x7f5bdefff700] DEBUG - Completed: [10.0.0.1:54616] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:39:30.155 [0x7f5bdffff700] DEBUG - Request: [10.0.0.1:54754 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:39:30.156 [0x7f5bdcfff700] DEBUG - Request: [10.0.0.1:54756 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:39:30.158 [0x7f5bdefff700] DEBUG - Completed: [10.0.0.1:54754] 200 GET /clients (4 live) GZIP 2ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:39:30.158 [0x7f5bdefff700] DEBUG - Completed: [10.0.0.1:54756] 200 GET /clients (4 live) GZIP 2ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:40:30.150 [0x7f5bddffd700] DEBUG - Request: [10.0.0.1:54932 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:40:30.151 [0x7f5bd33ff700] DEBUG - Request: [10.0.0.1:54936 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:40:30.151 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:54932] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:40:30.152 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:54936] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:41:30.153 [0x7f5bcfbff700] DEBUG - Request: [10.0.0.1:55118 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:41:30.153 [0x7f5bdffff700] DEBUG - Request: [10.0.0.1:55120 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:41:30.154 [0x7f5bdefff700] DEBUG - Completed: [10.0.0.1:55118] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:41:30.154 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:55120] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:42:30.162 [0x7f5bddffd700] DEBUG - Request: [10.0.0.1:55298 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:42:30.163 [0x7f5bdcfff700] DEBUG - Request: [10.0.0.1:55302 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:42:30.163 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:55298] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:42:30.164 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:55302] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:43:30.151 [0x7f5bd43ff700] DEBUG - Request: [10.0.0.1:55494 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:43:30.151 [0x7f5bdffff700] DEBUG - Request: [10.0.0.1:55496 (Subnet)] GET /clients (4 live) GZIP
+Aug 30, 2018 19:43:30.152 [0x7f5bdefff700] DEBUG - Completed: [10.0.0.1:55494] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
+Aug 30, 2018 19:43:30.152 [0x7f5bde7fe700] DEBUG - Completed: [10.0.0.1:55496] 200 GET /clients (4 live) GZIP 1ms 397 bytes (pipelined: 1)
