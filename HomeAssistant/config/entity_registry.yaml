@@ -1,0 +1,10 @@
+media_player.chrome:
+  config_entry_id:
+  name:
+  platform: plex
+  unique_id: uxzrsfps6xc71gyeb3rrq8mm
+media_player.chrome_2:
+  config_entry_id:
+  name:
+  platform: plex
+  unique_id: hf0ll9fji28jyx2u3xicss69

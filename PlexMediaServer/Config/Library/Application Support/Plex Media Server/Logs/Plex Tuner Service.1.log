@@ -1,0 +1,20 @@
+Aug 30, 2018 18:46:57.645 [0x7f65bf7b8700] INFO - Plex Tuner Service v1.0.0.0 - unknown docker unknown - build: 
+Aug 30, 2018 18:46:57.645 [0x7f65bf7b8700] INFO - Linux version: 4.15.0-33-generic (#36-Ubuntu SMP Wed Aug 15 16:00:05 UTC 2018), language: en-US
+Aug 30, 2018 18:46:57.645 [0x7f65bf7b8700] INFO - Processor        Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+Aug 30, 2018 18:46:57.645 [0x7f65bf7b8700] INFO - /usr/lib/plexmediaserver/Plex Tuner Service /usr/lib/plexmediaserver/Resources/Tuner/Private /usr/lib/plexmediaserver/Resources/Tuner/Shared 1.13.4.5271-200287a06 32600 /waitmutex
+Aug 30, 2018 18:46:56.483 [0x7f65c47e4780] INFO - [I] broker_t::start...
+Aug 30, 2018 18:46:57.049 [0x7f65c47e4780] INFO - [I] device_manager_t::init.
+Aug 30, 2018 18:46:57.049 [0x7f65c47e4780] INFO - [I] device_manager_t::init. Initialize provider manager
+Aug 30, 2018 18:46:57.049 [0x7f65c47e4780] INFO - [I] device_manager_t::init. Initialize all device auxes
+Aug 30, 2018 18:46:57.050 [0x7f65c47e4780] INFO - [I] dvb_device_factory_t::get_aux_list
+Aug 30, 2018 18:46:57.050 [0x7f65c47e4780] INFO - [I] tvbutler_aux_t::init
+Aug 30, 2018 18:46:57.292 [0x7f65c47e4780] INFO - [I] web_server_t::start. Starting web server on port 32600
+Aug 30, 2018 18:51:41.367 [0x7f65c47e4780] INFO - [I] device_manager_t::term
+Aug 30, 2018 18:51:41.367 [0x7f65c47e4780] INFO - [I] device_manager_t::term. Stop all devices
+Aug 30, 2018 18:51:41.367 [0x7f65c47e4780] INFO - [I] device_manager_t::term. Shut down all device auxes
+Aug 30, 2018 18:51:41.367 [0x7f65c47e4780] INFO - [I] tvbutler_aux_t::term
+Aug 30, 2018 18:51:41.368 [0x7f65c47e4780] INFO - [I] web_server_t::stop. Web server is stopped
+Aug 30, 2018 18:51:41.368 [0x7f65c47e4780] INFO - [I] device_manager_t::term
+Aug 30, 2018 18:51:41.368 [0x7f65c47e4780] INFO - [I] device_manager_t::term. Stop all devices
+Aug 30, 2018 18:51:41.368 [0x7f65c47e4780] INFO - [I] device_manager_t::term. Shut down all device auxes
+Aug 30, 2018 18:51:41.369 [0x7f65c47e4780] INFO - [I] broker_t::shutdown. Shutdown is completed.

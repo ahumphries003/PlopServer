@@ -1,0 +1,1628 @@
+03-Aug-2018 19:20:45 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+03-Aug-2018 19:20:45 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+03-Aug-2018 19:20:45 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+03-Aug-2018 19:20:45 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 0, integrity check: ok
+03-Aug-2018 19:20:47 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+03-Aug-2018 19:20:51 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 28 commits behind
+03-Aug-2018 19:20:51 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+03-Aug-2018 19:20:51 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+03-Aug-2018 19:20:51 - INFO    :: DB_UPGRADE : dbupgrade.py:dbupgrade:134 : Creating new database, version 34
+03-Aug-2018 19:21:13 - INFO    :: DB_UPGRADE : dbupgrade.py:dbupgrade:217 : Database updated to version 34
+03-Aug-2018 19:31:13 - WARNING :: POSTPROCESS : __init__.py:DIRECTORY:1197 : Download dir [/downloads] not writeable, using /config: [Errno 13] Permission denied: u'/downloads/ll_temp'
+03-Aug-2018 19:31:13 - WARNING :: POSTPROCESS : __init__.py:DIRECTORY:1197 : Download dir [/downloads] not writeable, using /config: [Errno 13] Permission denied: u'/downloads/ll_temp'
+03-Aug-2018 19:31:13 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+03-Aug-2018 19:31:13 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+07-Aug-2018 01:40:37 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+07-Aug-2018 01:40:37 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+07-Aug-2018 01:40:37 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+07-Aug-2018 01:40:37 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 34, integrity check: ok
+07-Aug-2018 01:40:38 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+07-Aug-2018 01:40:39 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 40 commits behind
+07-Aug-2018 01:40:39 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+07-Aug-2018 01:40:39 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+07-Aug-2018 01:50:39 - WARNING :: POSTPROCESS : __init__.py:DIRECTORY:1197 : Download dir [/downloads] not writeable, using /config: [Errno 13] Permission denied: u'/downloads/ll_temp'
+07-Aug-2018 01:50:39 - WARNING :: POSTPROCESS : __init__.py:DIRECTORY:1197 : Download dir [/downloads] not writeable, using /config: [Errno 13] Permission denied: u'/downloads/ll_temp'
+07-Aug-2018 01:50:39 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+07-Aug-2018 01:50:39 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+08-Aug-2018 23:54:35 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+08-Aug-2018 23:54:35 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+08-Aug-2018 23:54:35 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+08-Aug-2018 23:54:35 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 34, integrity check: ok
+08-Aug-2018 23:54:36 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+08-Aug-2018 23:54:37 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 51 commits behind
+08-Aug-2018 23:54:37 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+08-Aug-2018 23:54:37 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+09-Aug-2018 00:04:38 - WARNING :: POSTPROCESS : __init__.py:DIRECTORY:1197 : Download dir [/downloads] not writeable, using /config: [Errno 13] Permission denied: u'/downloads/ll_temp'
+09-Aug-2018 00:04:38 - WARNING :: POSTPROCESS : __init__.py:DIRECTORY:1197 : Download dir [/downloads] not writeable, using /config: [Errno 13] Permission denied: u'/downloads/ll_temp'
+09-Aug-2018 00:04:38 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+09-Aug-2018 00:04:38 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+10-Aug-2018 00:50:21 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+10-Aug-2018 00:50:21 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+10-Aug-2018 00:50:22 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+10-Aug-2018 00:50:22 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 34, integrity check: ok
+10-Aug-2018 00:50:22 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+10-Aug-2018 00:50:24 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 52 commits behind
+10-Aug-2018 00:50:24 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+10-Aug-2018 00:50:24 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+10-Aug-2018 01:00:25 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+10-Aug-2018 01:00:25 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+10-Aug-2018 01:49:05 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+10-Aug-2018 01:49:05 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+10-Aug-2018 01:49:05 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+10-Aug-2018 01:49:06 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 34, integrity check: ok
+10-Aug-2018 01:49:07 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+10-Aug-2018 01:49:08 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 52 commits behind
+10-Aug-2018 01:49:08 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+10-Aug-2018 01:49:08 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+10-Aug-2018 01:59:09 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+10-Aug-2018 01:59:09 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+14-Aug-2018 23:57:29 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+14-Aug-2018 23:57:30 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+14-Aug-2018 23:57:30 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+14-Aug-2018 23:57:31 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 34, integrity check: ok
+14-Aug-2018 23:57:32 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+14-Aug-2018 23:57:36 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 62 commits behind
+14-Aug-2018 23:57:36 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+14-Aug-2018 23:57:36 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+15-Aug-2018 00:07:38 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+15-Aug-2018 00:07:38 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+19-Aug-2018 21:26:52 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 21:26:52 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+19-Aug-2018 21:26:52 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+19-Aug-2018 21:26:52 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 34, integrity check: ok
+19-Aug-2018 21:26:53 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+19-Aug-2018 21:26:54 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 62 commits behind
+19-Aug-2018 21:26:54 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 21:26:54 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 21:36:54 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+19-Aug-2018 21:36:54 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+19-Aug-2018 23:12:25 - INFO    :: MAIN : __init__.py:logmsg:1497 : LazyLibrarian is updating...
+19-Aug-2018 23:12:32 - INFO    :: MAIN : __init__.py:logmsg:1497 : Lazylibrarian version updated
+19-Aug-2018 23:12:32 - INFO    :: MAIN : __init__.py:config_write:919 : Writing config for section [Git]
+19-Aug-2018 23:12:32 - INFO    :: CONFIG_WRITE : __init__.py:config_write:1110 : Config file [/config/config.ini] Git has been updated
+19-Aug-2018 23:12:32 - INFO    :: MAIN : __init__.py:logmsg:1497 : LazyLibrarian is restarting ...
+19-Aug-2018 23:12:32 - INFO    :: MAIN : __init__.py:logmsg:1497 : LazyLibrarian is exiting
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 34, integrity check: ok
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 34, integrity check: ok
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:12:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:12:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:12:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:12:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:12:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:12:38 - INFO    :: DB_UPGRADE : dbupgrade.py:dbupgrade:132 : Updating database to version 39, current version is 34
+19-Aug-2018 23:12:41 - INFO    :: DB_UPGRADE : dbupgrade.py:dbupgrade:241 : Database updated to version 39
+19-Aug-2018 23:12:42 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:12:42 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:12:42 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:12:42 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:12:43 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:12:43 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:12:43 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:12:47 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:12:47 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:12:47 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:12:47 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:12:48 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:12:48 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:12:48 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:12:53 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:12:53 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:12:53 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:12:53 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:12:53 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:12:53 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:12:53 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:12:58 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:12:58 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:12:58 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:12:58 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:12:58 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:12:59 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:12:59 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:03 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:03 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:03 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:03 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:03 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:04 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:04 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:08 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:08 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:08 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:08 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:08 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:09 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:09 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:13 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:13 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:13 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:13 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:13 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:14 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:14 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:18 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:18 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:18 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:18 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:19 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:19 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:19 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:23 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:23 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:23 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:23 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:24 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:24 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:24 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:28 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:28 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:28 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:28 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:29 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:29 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:29 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:34 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:34 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:34 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:34 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:34 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:34 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:34 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:39 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:39 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:39 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:39 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:39 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:39 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:39 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:44 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:44 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:44 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:44 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:44 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:44 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:44 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:49 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:49 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:49 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:49 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:49 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:50 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:50 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:54 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:54 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:54 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:54 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:13:54 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:13:55 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:13:55 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:13:59 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:13:59 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:13:59 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:13:59 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:00 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:00 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:00 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:04 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:04 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:04 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:04 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:05 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:05 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:05 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:09 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:09 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:09 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:09 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:10 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:10 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:10 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:14 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:14 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:14 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:14 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:15 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:15 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:15 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:20 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:20 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:20 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:20 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:20 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:20 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:20 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:25 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:25 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:25 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:25 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:25 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:25 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:25 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:30 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:30 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:30 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:30 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:30 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:30 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:30 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:35 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:35 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:35 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:35 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:35 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:37 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:37 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:41 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:41 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:41 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:41 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:41 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:42 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:42 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:46 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:46 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:46 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:46 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:46 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:47 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:47 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:51 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:51 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:51 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:51 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:52 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:52 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:52 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:14:56 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:14:56 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:14:56 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:14:56 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:14:57 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:14:57 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:14:57 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:01 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:01 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:01 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:01 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:02 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:02 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:02 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:07 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:07 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:07 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:07 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:07 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:07 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:07 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:12 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:12 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:12 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:12 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:12 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:12 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:12 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:17 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:17 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:17 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:17 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:17 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:18 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:18 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:22 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:22 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:22 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:22 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:22 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:23 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:23 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:27 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:27 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:27 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:27 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:27 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:28 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:28 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:32 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:32 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:32 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:32 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:33 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:33 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:33 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:37 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:37 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:37 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:37 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:38 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:43 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:43 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:43 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:43 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:43 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:43 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:43 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:48 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:48 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:48 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:48 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:48 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:48 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:48 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:53 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:53 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:53 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:53 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:53 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:53 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:53 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:15:58 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:15:58 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:15:58 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:15:58 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:15:58 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:15:59 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:15:59 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:03 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:03 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:03 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:03 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:03 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:04 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:04 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:08 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:08 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:08 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:08 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:08 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:09 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:09 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:13 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:13 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:13 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:13 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:14 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:14 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:14 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:18 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:18 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:18 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:18 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:19 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:19 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:19 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:23 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:23 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:23 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:23 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:24 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:24 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:24 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:28 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:29 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:29 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:34 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:34 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:34 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:34 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:34 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:35 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:35 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:39 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:39 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:39 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:39 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:40 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:40 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:40 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:44 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:44 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:44 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:44 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:45 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:45 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:45 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:49 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:49 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:49 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:49 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:50 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:50 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:50 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:16:55 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:16:55 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:16:55 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:16:55 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:16:55 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:16:55 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:16:55 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:00 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:00 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:00 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:00 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:00 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:00 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:00 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:05 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:05 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:05 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:05 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:05 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:05 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:05 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:10 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:10 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:10 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:10 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:10 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:10 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:10 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:15 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:15 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:15 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:15 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:15 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:16 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:16 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:20 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:20 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:20 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:20 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:20 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:21 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:21 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:25 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:25 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:25 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:25 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:25 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:26 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:26 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:30 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:30 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:30 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:30 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:30 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:31 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:31 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:35 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:35 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:35 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:35 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:36 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:36 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:36 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:40 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:40 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:40 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:40 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:41 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:41 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:41 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:45 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:45 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:45 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:45 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:46 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:46 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:46 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:51 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:51 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:51 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:51 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:51 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:51 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:51 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:17:56 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:17:56 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:17:56 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:17:56 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:17:56 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:17:56 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:17:56 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:01 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:01 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:01 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:01 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:01 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:01 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:01 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:06 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:06 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:06 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:06 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:06 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:07 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:07 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:11 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:11 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:11 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:11 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:11 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:12 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:12 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:16 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:16 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:16 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:16 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:16 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:17 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:17 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:21 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:21 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:21 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:21 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:22 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:22 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:22 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:26 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:26 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:26 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:26 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:27 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:27 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:27 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:31 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:31 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:31 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:31 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:32 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:32 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:32 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:36 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:36 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:36 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:36 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:37 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:37 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:42 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:42 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:42 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:42 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:42 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:42 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:42 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:47 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:47 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:47 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:47 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:47 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:48 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:48 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:52 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:52 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:52 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:52 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:52 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:53 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:53 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:18:57 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:18:57 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:18:57 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:18:57 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:18:57 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:18:58 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:18:58 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:02 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:02 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:02 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:02 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:03 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:03 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:03 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:07 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:07 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:07 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:07 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:08 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:08 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:08 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:12 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:12 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:12 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:12 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:13 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:13 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:13 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:18 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:18 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:18 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:18 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:18 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:18 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:18 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:23 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:23 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:23 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:23 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:23 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:23 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:23 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:28 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:28 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:28 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:28 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:28 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:29 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:29 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:33 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:33 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:33 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:33 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:33 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:34 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:34 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:38 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:38 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:38 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:38 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:38 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:39 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:39 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:43 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:43 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:43 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:43 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:44 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:44 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:44 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:48 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:48 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:48 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:48 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:49 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:49 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:49 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:53 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:53 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:53 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:53 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:54 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:54 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:54 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:19:58 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:19:58 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:19:58 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:19:58 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:19:59 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:19:59 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:19:59 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:04 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:04 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:04 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:04 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:04 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:04 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:04 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:09 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:09 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:09 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:09 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:09 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:09 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:09 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:14 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:14 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:14 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:14 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:14 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:14 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:14 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:19 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:19 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:19 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:19 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:19 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:19 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:19 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:24 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:24 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:24 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:24 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:24 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:25 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:25 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:29 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:29 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:29 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:29 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:29 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:30 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:30 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:34 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:34 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:34 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:34 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:35 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:35 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:35 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:39 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:39 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:39 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:39 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:40 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:40 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:40 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:44 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:44 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:44 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:44 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:45 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:45 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:45 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:49 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:49 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:49 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:49 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:50 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:50 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:50 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:20:55 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:20:55 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:20:55 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:20:55 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:20:55 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:20:55 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:20:55 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:00 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:00 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:00 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:00 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:00 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:00 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:00 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:05 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:05 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:05 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:05 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:05 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:05 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:05 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:10 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:10 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:10 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:10 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:10 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:11 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:11 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:15 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:15 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:15 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:15 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:16 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:16 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:16 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:20 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:20 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:20 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:20 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:21 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:21 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:21 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:25 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:25 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:25 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:25 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:26 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:26 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:26 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:30 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:30 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:31 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:31 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:31 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:31 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:31 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:36 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:36 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:36 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:36 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:36 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:36 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:36 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:41 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:41 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:41 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:41 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:41 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:41 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:41 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:46 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:46 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:46 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:46 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:46 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:47 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:47 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:51 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:51 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:51 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:51 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:51 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:52 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:52 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:21:56 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:21:56 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:21:56 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:21:56 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:21:56 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:21:57 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:21:57 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:01 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:01 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:01 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:01 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:02 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:02 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:02 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:06 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:06 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:06 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:06 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:07 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:07 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:07 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:12 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:12 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:12 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:12 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:12 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:12 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:12 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:17 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:17 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:17 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:17 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:17 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:17 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:17 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:22 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:22 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:22 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:22 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:22 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:22 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:22 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:27 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:27 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:27 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:27 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:27 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:27 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:27 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:32 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:32 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:32 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:32 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:32 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:33 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:33 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:37 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:37 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:37 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:37 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:41 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+19-Aug-2018 23:22:41 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+19-Aug-2018 23:22:42 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:42 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:42 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:42 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:43 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:43 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:43 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:47 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:47 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:47 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:47 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:48 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:48 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:48 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:53 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:53 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:53 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:53 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:53 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:53 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:53 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:22:58 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:22:58 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:22:58 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:22:58 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:22:58 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:22:59 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:22:59 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:03 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:03 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:03 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:03 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:03 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:04 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:04 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:08 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:08 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:08 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:08 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:09 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:09 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:09 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:13 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:13 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:13 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:13 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:14 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:14 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:14 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:18 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:18 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:18 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:18 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:19 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:19 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:19 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:24 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:24 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:24 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:24 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:24 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:24 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:24 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:29 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:29 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:29 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:29 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:29 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:29 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:29 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:34 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:34 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:34 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:34 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:34 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:35 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:35 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:39 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:39 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:39 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:39 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:39 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:40 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:40 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:44 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:44 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:44 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:44 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:45 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:45 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:45 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:49 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:49 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:49 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:49 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:50 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:50 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:50 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:23:54 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:23:54 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:23:54 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:23:54 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:23:55 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:23:55 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:23:55 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:00 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:00 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:00 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:00 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:00 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:00 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:00 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:05 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:05 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:05 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:05 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:05 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:05 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:05 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:10 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:10 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:10 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:10 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:10 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:10 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:10 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:15 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:15 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:15 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:15 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:15 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:16 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:16 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:20 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:20 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:20 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:20 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:20 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:21 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:21 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:25 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:25 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:25 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:25 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:25 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:26 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:26 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:30 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:30 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:30 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:30 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:30 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:31 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:31 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:35 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:35 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:35 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:35 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:36 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:36 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:36 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:40 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:40 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:40 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:40 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:41 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:41 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:41 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:45 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:45 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:45 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:45 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:46 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:46 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:46 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:51 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:51 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:51 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:51 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:51 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:51 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:51 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:24:56 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:24:56 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:24:56 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:24:56 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:24:56 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:24:56 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:24:56 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:01 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:01 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:01 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:01 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:01 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:02 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:02 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:06 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:06 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:06 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:06 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:06 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:07 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:07 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:11 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:11 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:11 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:11 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:12 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:12 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:12 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:16 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:16 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:16 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:16 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:17 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:17 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:17 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:22 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:22 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:22 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:22 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:22 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:22 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:22 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:27 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:27 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:27 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:27 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:27 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:28 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:28 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:32 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:32 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:32 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:32 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:32 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:33 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:33 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:37 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:37 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:37 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:37 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:42 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:42 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:42 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:42 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:43 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:43 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:43 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:47 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:47 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:47 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:47 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:48 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:48 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:48 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:53 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:53 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:53 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:53 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:53 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:53 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:53 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:25:58 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:25:58 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:25:58 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:25:58 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:25:58 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:25:58 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:25:58 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:03 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:03 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:03 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:03 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:03 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:04 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:04 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:08 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:08 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:08 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:08 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:08 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:09 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:09 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:13 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:13 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:13 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:13 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:13 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:14 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:14 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:18 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:18 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:18 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:18 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:19 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:19 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:19 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:23 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:23 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:23 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:23 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:24 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:24 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:24 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:28 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:28 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:28 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:28 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:29 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:29 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:29 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:34 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:34 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:34 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:34 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:34 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:34 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:34 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:39 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:39 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:39 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:39 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:39 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:39 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:39 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:44 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:44 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:44 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:44 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:44 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:44 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:44 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:49 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:49 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:49 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:49 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:49 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:50 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:50 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:54 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:54 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:54 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:54 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:54 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:26:55 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:26:55 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:26:59 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:26:59 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:26:59 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:26:59 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:26:59 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:00 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:00 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:04 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:04 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:04 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:04 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:04 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:05 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:05 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:09 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:09 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:09 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:09 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:10 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:10 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:10 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:14 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:14 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:14 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:14 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:15 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:15 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:15 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:19 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:19 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:19 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:19 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:20 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:20 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:20 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:25 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:25 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:25 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:25 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:25 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:25 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:25 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:30 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:30 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:30 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:30 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:30 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:30 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:30 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:35 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:35 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:35 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:35 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:35 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:36 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:36 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:40 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:40 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:40 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:40 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:40 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:41 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:41 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:45 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:45 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:45 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:45 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:46 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:46 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:46 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:50 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:50 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:50 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:50 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:51 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:51 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:51 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:27:55 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:27:55 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:27:55 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:27:55 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:27:56 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:27:56 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:27:56 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:28:00 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:28:00 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:28:00 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:28:00 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:28:01 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:28:01 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:28:01 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:28:06 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:28:06 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:28:06 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:28:06 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:28:06 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:28:06 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:28:06 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:28:11 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:28:11 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:28:11 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:28:11 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:28:11 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:28:12 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:28:12 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:28:16 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:28:16 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:28:16 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:28:16 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:28:16 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1302 : Bookstrap found 16 themes
+19-Aug-2018 23:28:17 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:28:17 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:28:21 - INFO    :: MAIN : __init__.py:initialize:624 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:28:21 - INFO    :: MAIN : __init__.py:initialize:630 : Screen Log set to INFO
+19-Aug-2018 23:28:21 - INFO    :: MAIN : __init__.py:config_read:917 : Config file loaded
+19-Aug-2018 23:28:21 - INFO    :: MAIN : __init__.py:initialize:674 : Database is version 39, integrity check: ok
+19-Aug-2018 23:38:30 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:38:30 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+19-Aug-2018 23:38:30 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+19-Aug-2018 23:38:30 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+19-Aug-2018 23:38:31 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+19-Aug-2018 23:38:31 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:38:31 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:46:48 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+19-Aug-2018 23:46:48 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+19-Aug-2018 23:46:48 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+19-Aug-2018 23:46:48 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+19-Aug-2018 23:46:49 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+19-Aug-2018 23:46:49 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+19-Aug-2018 23:46:49 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+19-Aug-2018 23:56:49 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+19-Aug-2018 23:56:49 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+20-Aug-2018 00:00:38 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+20-Aug-2018 00:00:38 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+20-Aug-2018 00:00:38 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+20-Aug-2018 00:00:38 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+20-Aug-2018 00:00:38 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+20-Aug-2018 00:00:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+20-Aug-2018 00:00:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+20-Aug-2018 00:08:03 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+20-Aug-2018 00:08:03 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+20-Aug-2018 00:08:03 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+20-Aug-2018 00:08:03 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+20-Aug-2018 00:08:04 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+20-Aug-2018 00:08:04 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+20-Aug-2018 00:08:04 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+20-Aug-2018 00:11:16 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+20-Aug-2018 00:11:16 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+20-Aug-2018 00:11:17 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+20-Aug-2018 00:11:17 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+20-Aug-2018 00:11:17 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+20-Aug-2018 00:11:17 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+20-Aug-2018 00:11:17 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+20-Aug-2018 00:21:17 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+20-Aug-2018 00:21:17 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+20-Aug-2018 00:32:17 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+20-Aug-2018 00:32:17 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+20-Aug-2018 00:32:17 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+20-Aug-2018 00:32:17 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+20-Aug-2018 00:32:18 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+20-Aug-2018 00:32:18 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+20-Aug-2018 00:32:18 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+20-Aug-2018 00:42:19 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+20-Aug-2018 00:42:19 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+20-Aug-2018 23:48:23 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+20-Aug-2018 23:48:23 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+20-Aug-2018 23:48:23 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+20-Aug-2018 23:48:23 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+20-Aug-2018 23:48:24 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+20-Aug-2018 23:48:24 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+20-Aug-2018 23:48:24 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+21-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+21-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+21-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+21-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+21-Aug-2018 00:02:07 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+21-Aug-2018 00:02:08 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+21-Aug-2018 00:02:08 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+21-Aug-2018 00:10:59 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+21-Aug-2018 00:10:59 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+21-Aug-2018 00:10:59 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+21-Aug-2018 00:10:59 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+21-Aug-2018 00:10:59 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+21-Aug-2018 00:11:00 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+21-Aug-2018 00:11:00 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+21-Aug-2018 00:29:11 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+21-Aug-2018 00:29:11 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+21-Aug-2018 00:29:11 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+21-Aug-2018 00:29:11 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+21-Aug-2018 00:29:12 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+21-Aug-2018 00:29:13 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+21-Aug-2018 00:29:13 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+21-Aug-2018 00:39:13 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+21-Aug-2018 00:39:13 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+21-Aug-2018 00:49:36 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+21-Aug-2018 00:49:37 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+21-Aug-2018 00:49:37 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+21-Aug-2018 00:49:37 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+21-Aug-2018 00:49:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+21-Aug-2018 00:49:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+21-Aug-2018 00:49:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+21-Aug-2018 00:59:38 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+21-Aug-2018 00:59:38 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+21-Aug-2018 23:07:18 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+21-Aug-2018 23:07:18 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+21-Aug-2018 23:07:19 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+21-Aug-2018 23:07:19 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+21-Aug-2018 23:07:20 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+21-Aug-2018 23:07:20 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+21-Aug-2018 23:07:20 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+21-Aug-2018 23:17:21 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+21-Aug-2018 23:17:21 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+22-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+22-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+22-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+22-Aug-2018 23:16:29 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+22-Aug-2018 23:16:30 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+22-Aug-2018 23:16:30 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+22-Aug-2018 23:16:31 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+22-Aug-2018 23:26:31 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+22-Aug-2018 23:26:31 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+22-Aug-2018 23:37:44 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+22-Aug-2018 23:37:44 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+22-Aug-2018 23:37:44 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+22-Aug-2018 23:37:44 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+22-Aug-2018 23:37:45 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+22-Aug-2018 23:37:46 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+22-Aug-2018 23:37:46 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+22-Aug-2018 23:46:15 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+22-Aug-2018 23:46:15 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+22-Aug-2018 23:46:15 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+22-Aug-2018 23:46:15 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+22-Aug-2018 23:46:16 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+22-Aug-2018 23:46:16 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+22-Aug-2018 23:46:16 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+22-Aug-2018 23:56:17 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+22-Aug-2018 23:56:17 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+23-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+23-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+23-Aug-2018 00:02:06 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+23-Aug-2018 00:02:07 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+23-Aug-2018 00:02:08 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+23-Aug-2018 00:02:08 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+23-Aug-2018 00:02:08 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+23-Aug-2018 00:07:57 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+23-Aug-2018 00:07:57 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+23-Aug-2018 00:07:57 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+23-Aug-2018 00:07:57 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+23-Aug-2018 00:07:57 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+23-Aug-2018 00:07:58 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+23-Aug-2018 00:07:58 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+23-Aug-2018 00:15:13 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+23-Aug-2018 00:15:13 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+23-Aug-2018 00:15:13 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+23-Aug-2018 00:15:13 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+23-Aug-2018 00:15:14 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+23-Aug-2018 00:15:15 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+23-Aug-2018 00:15:15 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+23-Aug-2018 00:21:32 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+23-Aug-2018 00:21:32 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+23-Aug-2018 00:21:32 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+23-Aug-2018 00:21:33 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+23-Aug-2018 00:21:33 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+23-Aug-2018 00:21:34 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+23-Aug-2018 00:21:34 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+23-Aug-2018 00:31:36 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+23-Aug-2018 00:31:36 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+24-Aug-2018 01:06:58 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+24-Aug-2018 01:06:58 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+24-Aug-2018 01:06:58 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+24-Aug-2018 01:06:59 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+24-Aug-2018 01:06:59 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+24-Aug-2018 01:07:01 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 75 commits behind
+24-Aug-2018 01:07:01 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+24-Aug-2018 01:07:01 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+24-Aug-2018 01:17:02 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+24-Aug-2018 01:17:02 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+27-Aug-2018 23:42:04 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+27-Aug-2018 23:42:04 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+27-Aug-2018 23:42:04 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+27-Aug-2018 23:42:04 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+27-Aug-2018 23:42:05 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+27-Aug-2018 23:42:06 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+27-Aug-2018 23:42:06 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+27-Aug-2018 23:42:06 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+27-Aug-2018 23:52:07 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+27-Aug-2018 23:52:07 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+28-Aug-2018 00:40:48 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+28-Aug-2018 00:40:48 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+28-Aug-2018 00:40:49 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+28-Aug-2018 00:40:49 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+28-Aug-2018 00:40:49 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+28-Aug-2018 00:40:51 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+28-Aug-2018 00:40:51 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+28-Aug-2018 00:40:51 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+28-Aug-2018 00:50:51 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+28-Aug-2018 00:50:51 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+30-Aug-2018 00:07:40 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 00:07:40 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 00:07:41 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 00:07:41 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 00:07:41 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 00:07:43 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 00:07:43 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 00:07:43 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+30-Aug-2018 00:17:45 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+30-Aug-2018 00:17:45 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.
+30-Aug-2018 02:02:48 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 02:02:48 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 02:02:48 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 02:02:49 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 02:02:50 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 02:02:51 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 02:02:51 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 02:02:51 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+30-Aug-2018 02:17:01 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 02:17:01 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 02:17:01 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 02:17:01 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 02:17:02 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 02:17:03 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 02:17:03 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 02:17:03 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+30-Aug-2018 02:24:36 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 02:24:36 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 02:24:36 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 02:24:36 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 02:24:37 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 02:24:38 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 02:24:38 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 02:24:38 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+30-Aug-2018 02:27:19 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 02:27:19 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 02:27:19 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 02:27:19 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 02:27:19 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 02:27:20 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 02:27:20 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 02:27:20 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+30-Aug-2018 23:46:40 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 23:46:40 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 23:46:40 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 23:46:40 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 23:46:40 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 23:46:42 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 23:46:42 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 23:46:42 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+30-Aug-2018 23:57:12 - INFO    :: MAIN : __init__.py:initialize:621 : Log level set to [1]- Log Directory is [/config/log] - Config level is [1]
+30-Aug-2018 23:57:12 - INFO    :: MAIN : __init__.py:initialize:627 : Screen Log set to INFO
+30-Aug-2018 23:57:12 - INFO    :: MAIN : __init__.py:config_read:910 : Config file loaded
+30-Aug-2018 23:57:12 - INFO    :: MAIN : __init__.py:initialize:671 : Database is version 39, integrity check: ok
+30-Aug-2018 23:57:13 - INFO    :: MAIN : __init__.py:build_bookstrap_themes:1291 : Bookstrap found 16 themes
+30-Aug-2018 23:57:14 - INFO    :: MAIN : versioncheck.py:logmsg:41 : New version is available. You are 81 commits behind
+30-Aug-2018 23:57:14 - INFO    :: MAIN : LazyLibrarian.py:main:213 : Starting LazyLibrarian on port: 5299, webroot ""
+30-Aug-2018 23:57:14 - INFO    :: MAIN : webStart.py:initialize:63 : Starting LazyLibrarian web server on http://0.0.0.0:5299/
+31-Aug-2018 00:07:15 - INFO    :: POSTPROCESS : postprocess.py:processDir:739 : 0 books/mags processed.
+31-Aug-2018 00:07:15 - INFO    :: POSTPROCESS : postprocess.py:processDir:801 : Nothing marked as snatched. Stopping postprocessor.

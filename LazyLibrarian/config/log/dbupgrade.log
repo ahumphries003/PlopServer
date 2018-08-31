@@ -1,0 +1,16 @@
+Fri Aug  3 19:20:51 2018 v0: Creating new database, version 34
+Fri Aug  3 19:21:12 2018: Cleaning Database
+Fri Aug  3 19:21:13 2018: Database updated to version 34
+Sun Aug 19 23:12:38 2018 v0: Updating database to version 39, current version is 34
+Sun Aug 19 23:12:38 2018 v35: Adding OriginalPubDate to books table
+Sun Aug 19 23:12:38 2018 v35: complete
+Sun Aug 19 23:12:38 2018 v36: Creating failed search table
+Sun Aug 19 23:12:38 2018 v36: complete
+Sun Aug 19 23:12:38 2018 v37: Adding delete cascade constraint to existing tables
+Sun Aug 19 23:12:40 2018 v37: complete
+Sun Aug 19 23:12:40 2018 v38: Changing counters in series table to integers
+Sun Aug 19 23:12:40 2018 v38: complete
+Sun Aug 19 23:12:40 2018 v39: Updating author table to hold LastBookID setting
+Sun Aug 19 23:12:40 2018 v39: complete
+Sun Aug 19 23:12:40 2018: Cleaning Database
+Sun Aug 19 23:12:41 2018: Database updated to version 39

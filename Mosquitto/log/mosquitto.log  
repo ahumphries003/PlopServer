@@ -1,0 +1,528 @@
+1534983284: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1534983284: Config loaded from /mosquitto/config/mosquitto.conf.
+1534983284: Opening ipv4 listen socket on port 1883.
+1534983284: Opening ipv6 listen socket on port 1883.
+1534983440: Error in poll: Interrupted system call.
+1534983440: mosquitto version 1.4.12 terminating
+1534983572: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1534983572: Config loaded from /mosquitto/config/mosquitto.conf.
+1534983572: Opening ipv4 listen socket on port 1883.
+1534983572: Opening ipv6 listen socket on port 1883.
+1534984189: New connection from 10.0.0.1 on port 1883.
+1534984189: New client connected from 10.0.0.1 as MQTT_FX_Client (c1, k60).
+1534984326: New connection from 10.0.0.1 on port 1883.
+1534984326: Client MQTT_FX_Client already connected, closing old connection.
+1534984326: Client MQTT_FX_Client disconnected.
+1534984326: New client connected from 10.0.0.1 as MQTT_FX_Client (c1, k60).
+1534984356: New connection from 10.0.0.1 on port 1883.
+1534984356: Client MQTT_FX_Client already connected, closing old connection.
+1534984356: Client MQTT_FX_Client disconnected.
+1534984356: New client connected from 10.0.0.1 as MQTT_FX_Client (c1, k60).
+1534984891: New connection from 10.0.0.11 on port 1883.
+1534984891: New client connected from 10.0.0.11 as b705871f-89c5-4d88-89b2-cd15e1987303 (c1, k60).
+1534985372: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1534987173: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1534988974: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1534988985: New connection from 192.168.1.219 on port 1883.
+1534988985: New client connected from 192.168.1.219 as myClientID (c1, k15).
+1534989007: Client myClientID has exceeded timeout, disconnecting.
+1534989007: Socket error on client myClientID, disconnecting.
+1534989105: New connection from 192.168.1.219 on port 1883.
+1534989105: New client connected from 192.168.1.219 as myClientID (c1, k15).
+1534989115: Socket error on client myClientID, disconnecting.
+1534989115: New connection from 192.168.1.219 on port 1883.
+1534989115: New client connected from 192.168.1.219 as myClientID (c1, k15).
+1534989137: Client myClientID has exceeded timeout, disconnecting.
+1534989137: Socket error on client myClientID, disconnecting.
+1534989196: New connection from 192.168.1.219 on port 1883.
+1534989196: New client connected from 192.168.1.219 as myClientID (c1, k15).
+1534989217: Client myClientID has exceeded timeout, disconnecting.
+1534989217: Socket error on client myClientID, disconnecting.
+1534989405: New connection from 192.168.1.219 on port 1883.
+1534989405: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534989427: Client PlopServerArduino has exceeded timeout, disconnecting.
+1534989427: Socket error on client PlopServerArduino, disconnecting.
+1534990178: New connection from 192.168.1.219 on port 1883.
+1534990178: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990186: Socket error on client PlopServerArduino, disconnecting.
+1534990186: New connection from 192.168.1.219 on port 1883.
+1534990186: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990208: Client PlopServerArduino has exceeded timeout, disconnecting.
+1534990208: Socket error on client PlopServerArduino, disconnecting.
+1534990372: New connection from 192.168.1.219 on port 1883.
+1534990372: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990393: Socket error on client PlopServerArduino, disconnecting.
+1534990393: New connection from 192.168.1.219 on port 1883.
+1534990393: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990415: Client PlopServerArduino has exceeded timeout, disconnecting.
+1534990415: Socket error on client PlopServerArduino, disconnecting.
+1534990429: New connection from 192.168.1.219 on port 1883.
+1534990429: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990451: Client PlopServerArduino has exceeded timeout, disconnecting.
+1534990451: Socket error on client PlopServerArduino, disconnecting.
+1534990459: New connection from 192.168.1.219 on port 1883.
+1534990459: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990481: Client PlopServerArduino has exceeded timeout, disconnecting.
+1534990481: Socket error on client PlopServerArduino, disconnecting.
+1534990490: New connection from 192.168.1.219 on port 1883.
+1534990490: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990511: Client PlopServerArduino has exceeded timeout, disconnecting.
+1534990511: Socket error on client PlopServerArduino, disconnecting.
+1534990520: New connection from 192.168.1.219 on port 1883.
+1534990520: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990533: New connection from 192.168.1.219 on port 1883.
+1534990533: Client PlopServerArduino already connected, closing old connection.
+1534990533: Client PlopServerArduino disconnected.
+1534990533: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534990775: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1534990999: Socket error on client PlopServerArduino, disconnecting.
+1534990999: New connection from 192.168.1.219 on port 1883.
+1534990999: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991177: Socket error on client PlopServerArduino, disconnecting.
+1534991177: New connection from 192.168.1.219 on port 1883.
+1534991177: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991252: Socket error on client PlopServerArduino, disconnecting.
+1534991252: New connection from 192.168.1.219 on port 1883.
+1534991252: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991474: Socket error on client PlopServerArduino, disconnecting.
+1534991475: New connection from 192.168.1.219 on port 1883.
+1534991475: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991548: Socket error on client PlopServerArduino, disconnecting.
+1534991548: New connection from 192.168.1.219 on port 1883.
+1534991548: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991642: New connection from 192.168.1.219 on port 1883.
+1534991642: Client PlopServerArduino already connected, closing old connection.
+1534991642: Client PlopServerArduino disconnected.
+1534991642: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991719: Socket error on client PlopServerArduino, disconnecting.
+1534991719: New connection from 192.168.1.219 on port 1883.
+1534991719: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991783: Socket error on client PlopServerArduino, disconnecting.
+1534991783: New connection from 192.168.1.219 on port 1883.
+1534991783: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991812: Socket error on client PlopServerArduino, disconnecting.
+1534991812: New connection from 192.168.1.219 on port 1883.
+1534991812: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991888: New connection from 192.168.1.219 on port 1883.
+1534991888: Client PlopServerArduino already connected, closing old connection.
+1534991888: Client PlopServerArduino disconnected.
+1534991888: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534991964: Socket error on client PlopServerArduino, disconnecting.
+1534991964: New connection from 192.168.1.219 on port 1883.
+1534991964: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534992086: Socket error on client PlopServerArduino, disconnecting.
+1534992086: New connection from 192.168.1.219 on port 1883.
+1534992086: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1534992139: Socket error on client MQTT_FX_Client, disconnecting.
+1534992148: Client PlopServerArduino has exceeded timeout, disconnecting.
+1535072686: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535072686: Config loaded from /mosquitto/config/mosquitto.conf.
+1535072686: Opening ipv4 listen socket on port 1883.
+1535072686: Opening ipv6 listen socket on port 1883.
+1535072687: New connection from 192.168.1.219 on port 1883.
+1535072687: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535072708: New connection from 192.168.1.219 on port 1883.
+1535072708: Client PlopServerArduino already connected, closing old connection.
+1535072708: Client PlopServerArduino disconnected.
+1535072708: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535072729: Socket error on client PlopServerArduino, disconnecting.
+1535072729: New connection from 192.168.1.219 on port 1883.
+1535072729: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535072853: New connection from 10.0.0.11 on port 1883.
+1535072853: New client connected from 10.0.0.11 as 9b0b50e1-a994-400b-9b5d-0207509ea293 (c1, k60).
+1535072895: New connection from 10.0.0.1 on port 1883.
+1535072895: New client connected from 10.0.0.1 as MQTT_FX_Client (c1, k60).
+1535073102: Socket error on client PlopServerArduino, disconnecting.
+1535073102: New connection from 192.168.1.219 on port 1883.
+1535073102: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535073209: Socket error on client PlopServerArduino, disconnecting.
+1535073209: New connection from 192.168.1.219 on port 1883.
+1535073209: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535073674: Socket error on client PlopServerArduino, disconnecting.
+1535073675: New connection from 192.168.1.219 on port 1883.
+1535073675: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535073761: Socket error on client PlopServerArduino, disconnecting.
+1535073761: New connection from 192.168.1.219 on port 1883.
+1535073761: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535073790: Socket error on client PlopServerArduino, disconnecting.
+1535073791: New connection from 192.168.1.219 on port 1883.
+1535073791: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535074280: Client 9b0b50e1-a994-400b-9b5d-0207509ea293 disconnected.
+1535074310: New connection from 10.0.0.1 on port 1883.
+1535074310: New client connected from 10.0.0.1 as 07f8f5a9-27fa-4646-8ed5-5e392c83193e (c1, k60).
+1535074487: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535074556: Client 07f8f5a9-27fa-4646-8ed5-5e392c83193e disconnected.
+1535074568: New connection from 10.0.0.1 on port 1883.
+1535074568: New client connected from 10.0.0.1 as 0748d55d-6196-4d1a-9c3c-7ca5f86f4626 (c1, k60).
+1535074620: Client 0748d55d-6196-4d1a-9c3c-7ca5f86f4626 disconnected.
+1535074631: New connection from 10.0.0.1 on port 1883.
+1535074631: New client connected from 10.0.0.1 as 48350f72-db90-4f37-9db7-664d3c5a1c9f (c1, k60).
+1535074687: Client 48350f72-db90-4f37-9db7-664d3c5a1c9f disconnected.
+1535074696: New connection from 10.0.0.1 on port 1883.
+1535074696: New client connected from 10.0.0.1 as 072a7c8d-36fe-4f45-b234-4a4f3fa9051b (c1, k60).
+1535074978: Client 072a7c8d-36fe-4f45-b234-4a4f3fa9051b disconnected.
+1535074990: New connection from 10.0.0.1 on port 1883.
+1535074990: New client connected from 10.0.0.1 as 7518e4cc-4475-4d30-8dc6-2697f917fccf (c1, k60).
+1535075068: Client 7518e4cc-4475-4d30-8dc6-2697f917fccf disconnected.
+1535075088: New connection from 10.0.0.1 on port 1883.
+1535075088: New client connected from 10.0.0.1 as ffd7aece-6422-4af2-9cd6-7d26e3f10ca9 (c1, k60).
+1535075835: Client ffd7aece-6422-4af2-9cd6-7d26e3f10ca9 disconnected.
+1535075845: New connection from 10.0.0.1 on port 1883.
+1535075845: New client connected from 10.0.0.1 as a6bf54e9-71b1-4239-90a0-3a41c1ffca32 (c1, k60).
+1535076014: Client a6bf54e9-71b1-4239-90a0-3a41c1ffca32 disconnected.
+1535076024: New connection from 10.0.0.1 on port 1883.
+1535076024: New client connected from 10.0.0.1 as 9e5d4c00-a93d-4c92-886f-011efe5625d2 (c1, k60).
+1535076288: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535077048: Socket error on client PlopServerArduino, disconnecting.
+1535077049: New connection from 192.168.1.219 on port 1883.
+1535077049: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535077120: Socket error on client PlopServerArduino, disconnecting.
+1535077120: New connection from 192.168.1.219 on port 1883.
+1535077120: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535077172: Socket error on client PlopServerArduino, disconnecting.
+1535077172: New connection from 192.168.1.219 on port 1883.
+1535077172: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535077719: Socket error on client PlopServerArduino, disconnecting.
+1535077719: New connection from 192.168.1.219 on port 1883.
+1535077719: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535077882: Socket error on client PlopServerArduino, disconnecting.
+1535077883: New connection from 192.168.1.219 on port 1883.
+1535077883: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535077965: Socket error on client PlopServerArduino, disconnecting.
+1535077966: New connection from 192.168.1.219 on port 1883.
+1535077966: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078089: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535078298: Socket error on client PlopServerArduino, disconnecting.
+1535078301: New connection from 192.168.1.219 on port 1883.
+1535078301: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078386: Socket error on client PlopServerArduino, disconnecting.
+1535078388: New connection from 192.168.1.219 on port 1883.
+1535078388: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078454: Socket error on client PlopServerArduino, disconnecting.
+1535078454: New connection from 192.168.1.219 on port 1883.
+1535078454: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078531: Socket error on client PlopServerArduino, disconnecting.
+1535078531: New connection from 192.168.1.219 on port 1883.
+1535078531: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078635: Socket error on client PlopServerArduino, disconnecting.
+1535078636: New connection from 192.168.1.219 on port 1883.
+1535078636: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078736: Socket error on client PlopServerArduino, disconnecting.
+1535078736: New connection from 192.168.1.219 on port 1883.
+1535078736: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078769: Socket error on client PlopServerArduino, disconnecting.
+1535078769: New connection from 192.168.1.219 on port 1883.
+1535078769: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078846: Socket error on client PlopServerArduino, disconnecting.
+1535078846: New connection from 192.168.1.219 on port 1883.
+1535078846: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535078999: Client PlopServerArduino has exceeded timeout, disconnecting.
+1535078999: Socket error on client PlopServerArduino, disconnecting.
+1535079624: Socket error on client MQTT_FX_Client, disconnecting.
+1535079652: Socket error on client 9e5d4c00-a93d-4c92-886f-011efe5625d2, disconnecting.
+1535079655: Error in poll: Interrupted system call.
+1535079655: mosquitto version 1.4.12 terminating
+1535413257: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535413257: Config loaded from /mosquitto/config/mosquitto.conf.
+1535413257: Opening ipv4 listen socket on port 1883.
+1535413257: Opening ipv6 listen socket on port 1883.
+1535413260: New connection from 192.168.1.219 on port 1883.
+1535413260: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535413285: New connection from 192.168.1.219 on port 1883.
+1535413285: Client PlopServerArduino already connected, closing old connection.
+1535413285: Client PlopServerArduino disconnected.
+1535413285: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535413300: Socket error on client PlopServerArduino, disconnecting.
+1535413300: New connection from 192.168.1.219 on port 1883.
+1535413300: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535413349: New connection from 10.0.0.1 on port 1883.
+1535413349: New client connected from 10.0.0.1 as 5de523f1-342d-4810-9ee5-52e6b7cf89be (c1, k60).
+1535415058: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535416493: Error in poll: Interrupted system call.
+1535416493: mosquitto version 1.4.12 terminating
+1535416634: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535416634: Config loaded from /mosquitto/config/mosquitto.conf.
+1535416634: Opening ipv4 listen socket on port 1883.
+1535416634: Opening ipv6 listen socket on port 1883.
+1535416639: New connection from 192.168.1.219 on port 1883.
+1535416639: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535416722: New connection from 10.0.0.1 on port 1883.
+1535416722: New client connected from 10.0.0.1 as c89dbb52-ec8c-45b3-b3bb-b19784a2ca19 (c1, k60).
+1535417187: Client c89dbb52-ec8c-45b3-b3bb-b19784a2ca19 disconnected.
+1535417201: New connection from 10.0.0.1 on port 1883.
+1535417201: New client connected from 10.0.0.1 as fc8ae789-0fe3-48be-b857-dd9c9d4e5e0f (c1, k60).
+1535417499: Client fc8ae789-0fe3-48be-b857-dd9c9d4e5e0f disconnected.
+1535417504: New connection from 10.0.0.1 on port 1883.
+1535417504: New client connected from 10.0.0.1 as 1f91ae54-9226-4746-a22f-ed4e7858111e (c1, k60).
+1535417844: Client 1f91ae54-9226-4746-a22f-ed4e7858111e disconnected.
+1535417856: New connection from 10.0.0.1 on port 1883.
+1535417856: New client connected from 10.0.0.1 as 36c69aae-df29-490f-84c7-9980c7a801cb (c1, k60).
+1535417955: Client 36c69aae-df29-490f-84c7-9980c7a801cb disconnected.
+1535417960: New connection from 10.0.0.1 on port 1883.
+1535417960: New client connected from 10.0.0.1 as 49887587-ec5f-4b93-9058-cb1db5ebbc27 (c1, k60).
+1535418118: Client 49887587-ec5f-4b93-9058-cb1db5ebbc27 disconnected.
+1535418124: New connection from 10.0.0.1 on port 1883.
+1535418124: New client connected from 10.0.0.1 as c681870b-2231-4369-acb4-854f9cf8d996 (c1, k60).
+1535418435: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535418507: Client c681870b-2231-4369-acb4-854f9cf8d996 disconnected.
+1535418515: New connection from 10.0.0.1 on port 1883.
+1535418515: New client connected from 10.0.0.1 as f4fdb9bf-869b-4173-8f13-36a2212902bf (c1, k60).
+1535418539: Client f4fdb9bf-869b-4173-8f13-36a2212902bf disconnected.
+1535418556: New connection from 10.0.0.1 on port 1883.
+1535418556: New client connected from 10.0.0.1 as 44884b39-78cf-44d1-90de-6accf41dd8b3 (c1, k60).
+1535419879: Client 44884b39-78cf-44d1-90de-6accf41dd8b3 disconnected.
+1535419895: New connection from 10.0.0.1 on port 1883.
+1535419895: New client connected from 10.0.0.1 as ae8aeb1b-6ccd-4c18-9cef-da9ed695b6be (c1, k60).
+1535420020: Client ae8aeb1b-6ccd-4c18-9cef-da9ed695b6be disconnected.
+1535420027: New connection from 10.0.0.1 on port 1883.
+1535420027: New client connected from 10.0.0.1 as c96d2900-6334-40a9-ba4b-11d219bc0446 (c1, k60).
+1535420095: Client c96d2900-6334-40a9-ba4b-11d219bc0446 disconnected.
+1535420100: New connection from 10.0.0.1 on port 1883.
+1535420100: New client connected from 10.0.0.1 as 28749268-32b0-4bd4-a548-248dbe3d23fc (c1, k60).
+1535420236: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535420313: Client 28749268-32b0-4bd4-a548-248dbe3d23fc disconnected.
+1535420325: New connection from 10.0.0.1 on port 1883.
+1535420325: New client connected from 10.0.0.1 as 7bea322f-0491-4696-800c-bb1ff9fb79d6 (c1, k60).
+1535420368: Client 7bea322f-0491-4696-800c-bb1ff9fb79d6 disconnected.
+1535420383: New connection from 10.0.0.1 on port 1883.
+1535420383: New client connected from 10.0.0.1 as 252773ef-1ce5-4047-8b5d-3131ce49f632 (c1, k60).
+1535420419: Client 252773ef-1ce5-4047-8b5d-3131ce49f632 disconnected.
+1535420433: New connection from 10.0.0.1 on port 1883.
+1535420433: New client connected from 10.0.0.1 as 113ca9c1-41e8-4604-9a3f-d0203bc865f2 (c1, k60).
+1535420512: Client 113ca9c1-41e8-4604-9a3f-d0203bc865f2 disconnected.
+1535420523: New connection from 10.0.0.1 on port 1883.
+1535420523: New client connected from 10.0.0.1 as 2447d05b-9eca-4482-bf08-20851c415ef9 (c1, k60).
+1535420588: Client 2447d05b-9eca-4482-bf08-20851c415ef9 disconnected.
+1535420602: New connection from 10.0.0.1 on port 1883.
+1535420602: New client connected from 10.0.0.1 as b9ef799d-6178-4231-b5ca-83527b52916f (c1, k60).
+1535420660: Client b9ef799d-6178-4231-b5ca-83527b52916f disconnected.
+1535420675: New connection from 10.0.0.1 on port 1883.
+1535420675: New client connected from 10.0.0.1 as 58cf52ae-678f-4484-9c1f-938c9f843dce (c1, k60).
+1535420836: Client 58cf52ae-678f-4484-9c1f-938c9f843dce disconnected.
+1535420847: New connection from 10.0.0.1 on port 1883.
+1535420847: New client connected from 10.0.0.1 as b708f9fc-ca4f-48dc-99d5-0672d172e4c2 (c1, k60).
+1535420947: Client b708f9fc-ca4f-48dc-99d5-0672d172e4c2 disconnected.
+1535420962: New connection from 10.0.0.1 on port 1883.
+1535420962: New client connected from 10.0.0.1 as a75818ab-1009-4d1a-89e7-67a15c552722 (c1, k60).
+1535421077: Client a75818ab-1009-4d1a-89e7-67a15c552722 disconnected.
+1535421093: New connection from 10.0.0.1 on port 1883.
+1535421093: New client connected from 10.0.0.1 as 1aab9fd3-1179-4be6-a30b-a7d90a7b58f8 (c1, k60).
+1535421156: Client 1aab9fd3-1179-4be6-a30b-a7d90a7b58f8 disconnected.
+1535421165: New connection from 10.0.0.1 on port 1883.
+1535421165: New client connected from 10.0.0.1 as 7bbcbfd3-53b2-4fb1-8a50-fe9418fdeff7 (c1, k60).
+1535421184: Client 7bbcbfd3-53b2-4fb1-8a50-fe9418fdeff7 disconnected.
+1535421192: New connection from 10.0.0.1 on port 1883.
+1535421192: New client connected from 10.0.0.1 as 4c83bb15-bca4-41e8-aa4a-87297bbe4839 (c1, k60).
+1535421488: Client 4c83bb15-bca4-41e8-aa4a-87297bbe4839 disconnected.
+1535421500: New connection from 10.0.0.1 on port 1883.
+1535421500: New client connected from 10.0.0.1 as 0c6fa5e9-f2a1-4633-afa8-9987a9c07828 (c1, k60).
+1535421588: Client 0c6fa5e9-f2a1-4633-afa8-9987a9c07828 disconnected.
+1535421593: New connection from 10.0.0.1 on port 1883.
+1535421593: New client connected from 10.0.0.1 as ad8629c7-7557-46c1-800a-e67edb15ab8b (c1, k60).
+1535421624: Client ad8629c7-7557-46c1-800a-e67edb15ab8b disconnected.
+1535421638: New connection from 10.0.0.1 on port 1883.
+1535421638: New client connected from 10.0.0.1 as 87486c3e-a0e3-4364-9999-b3c09c9b414c (c1, k60).
+1535422037: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535422313: Client 87486c3e-a0e3-4364-9999-b3c09c9b414c disconnected.
+1535422318: New connection from 10.0.0.1 on port 1883.
+1535422318: New client connected from 10.0.0.1 as 149db1d2-4954-4a27-9ece-694359d787d5 (c1, k60).
+1535422415: Client 149db1d2-4954-4a27-9ece-694359d787d5 disconnected.
+1535422430: New connection from 10.0.0.1 on port 1883.
+1535422430: New client connected from 10.0.0.1 as be84f6cc-ce47-47d8-a196-bdaa8aa82291 (c1, k60).
+1535422544: Client be84f6cc-ce47-47d8-a196-bdaa8aa82291 disconnected.
+1535422559: New connection from 10.0.0.1 on port 1883.
+1535422559: New client connected from 10.0.0.1 as 77a15ae6-1db2-4572-abf9-998f824b59fb (c1, k60).
+1535422899: Client 77a15ae6-1db2-4572-abf9-998f824b59fb disconnected.
+1535422904: New connection from 10.0.0.1 on port 1883.
+1535422904: New client connected from 10.0.0.1 as 9cc7ed2f-96b6-47d9-927a-1a1be2ea63fc (c1, k60).
+1535423120: Client 9cc7ed2f-96b6-47d9-927a-1a1be2ea63fc disconnected.
+1535423125: New connection from 10.0.0.1 on port 1883.
+1535423125: New client connected from 10.0.0.1 as 520dcad1-8cdb-4493-b938-37384ef89046 (c1, k60).
+1535423397: Client 520dcad1-8cdb-4493-b938-37384ef89046 disconnected.
+1535423402: New connection from 10.0.0.1 on port 1883.
+1535423402: New client connected from 10.0.0.1 as 2dfd493b-fc0b-40f4-a567-6d3f49230cf1 (c1, k60).
+1535423534: Client 2dfd493b-fc0b-40f4-a567-6d3f49230cf1 disconnected.
+1535423539: New connection from 10.0.0.1 on port 1883.
+1535423539: New client connected from 10.0.0.1 as c91fc10f-45ac-448b-b344-132a1e943a94 (c1, k60).
+1535423581: Client c91fc10f-45ac-448b-b344-132a1e943a94 disconnected.
+1535423585: New connection from 10.0.0.1 on port 1883.
+1535423585: New client connected from 10.0.0.1 as d5163408-26f6-40d5-a458-aca9a1ad7016 (c1, k60).
+1535423688: Client d5163408-26f6-40d5-a458-aca9a1ad7016 disconnected.
+1535423692: New connection from 10.0.0.1 on port 1883.
+1535423692: New client connected from 10.0.0.1 as eec4dbec-080c-4704-bb7d-4cba4dd09663 (c1, k60).
+1535423770: Client eec4dbec-080c-4704-bb7d-4cba4dd09663 disconnected.
+1535423775: New connection from 10.0.0.1 on port 1883.
+1535423775: New client connected from 10.0.0.1 as 11c206d7-9f3a-4fda-875e-681965085b8a (c1, k60).
+1535423838: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535423851: Client 11c206d7-9f3a-4fda-875e-681965085b8a disconnected.
+1535423866: New connection from 10.0.0.1 on port 1883.
+1535423866: New client connected from 10.0.0.1 as 470abf92-ebe5-4feb-9efa-f378f4ab96b7 (c1, k60).
+1535423955: Client 470abf92-ebe5-4feb-9efa-f378f4ab96b7 disconnected.
+1535423959: New connection from 10.0.0.1 on port 1883.
+1535423959: New client connected from 10.0.0.1 as e91881f6-e648-4af6-a14e-6d87a5c7a88a (c1, k60).
+1535424068: Client e91881f6-e648-4af6-a14e-6d87a5c7a88a disconnected.
+1535424073: New connection from 10.0.0.1 on port 1883.
+1535424073: New client connected from 10.0.0.1 as 14e030ff-0a38-4384-b225-60d8bd0d7dfa (c1, k60).
+1535424207: Client 14e030ff-0a38-4384-b225-60d8bd0d7dfa disconnected.
+1535424212: New connection from 10.0.0.1 on port 1883.
+1535424212: New client connected from 10.0.0.1 as 4f5bf28d-084b-4d9b-9171-65dd046f795e (c1, k60).
+1535424227: Client 4f5bf28d-084b-4d9b-9171-65dd046f795e disconnected.
+1535424241: New connection from 10.0.0.1 on port 1883.
+1535424241: New client connected from 10.0.0.1 as b362420c-396c-46d9-84b3-5630b11a7ca9 (c1, k60).
+1535424321: Client b362420c-396c-46d9-84b3-5630b11a7ca9 disconnected.
+1535424326: New connection from 10.0.0.1 on port 1883.
+1535424326: New client connected from 10.0.0.1 as 4b0fb116-2f16-4686-95ca-a0404a502740 (c1, k60).
+1535424364: Client 4b0fb116-2f16-4686-95ca-a0404a502740 disconnected.
+1535424369: New connection from 10.0.0.1 on port 1883.
+1535424369: New client connected from 10.0.0.1 as 2d091a17-cd3d-4b1b-b28d-6d0d0728b064 (c1, k60).
+1535424393: Client 2d091a17-cd3d-4b1b-b28d-6d0d0728b064 disconnected.
+1535424407: New connection from 10.0.0.1 on port 1883.
+1535424407: New client connected from 10.0.0.1 as c76df920-1b4e-4dbd-a167-9dd82ae1d58a (c1, k60).
+1535424538: Client c76df920-1b4e-4dbd-a167-9dd82ae1d58a disconnected.
+1535424542: New connection from 10.0.0.1 on port 1883.
+1535424542: New client connected from 10.0.0.1 as 66a41aa4-06cf-4a3c-be3c-7eab81b3ca02 (c1, k60).
+1535424655: Client 66a41aa4-06cf-4a3c-be3c-7eab81b3ca02 disconnected.
+1535424660: New connection from 10.0.0.1 on port 1883.
+1535424660: New client connected from 10.0.0.1 as d4ab39c0-df1f-4db4-9117-287a7b048d1d (c1, k60).
+1535424834: Client d4ab39c0-df1f-4db4-9117-287a7b048d1d disconnected.
+1535424839: New connection from 10.0.0.1 on port 1883.
+1535424839: New client connected from 10.0.0.1 as 4b6496bc-6f7d-4cb7-896c-e3464b542f78 (c1, k60).
+1535425639: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535425683: Error in poll: Interrupted system call.
+1535425683: mosquitto version 1.4.12 terminating
+1535587419: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535587420: Config loaded from /mosquitto/config/mosquitto.conf.
+1535587420: Opening ipv4 listen socket on port 1883.
+1535587420: Opening ipv6 listen socket on port 1883.
+1535587423: New connection from 192.168.1.219 on port 1883.
+1535587423: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535587698: New connection from 10.0.0.1 on port 1883.
+1535587698: New client connected from 10.0.0.1 as 5aa381c3-4f2f-49d0-ac1b-f4bf6a95de05 (c1, k60).
+1535588301: Client 5aa381c3-4f2f-49d0-ac1b-f4bf6a95de05 disconnected.
+1535588317: New connection from 10.0.0.1 on port 1883.
+1535588317: New client connected from 10.0.0.1 as d0a383c5-da4c-43c1-bc28-d31135fe88d6 (c1, k60).
+1535588593: Client d0a383c5-da4c-43c1-bc28-d31135fe88d6 disconnected.
+1535588601: New connection from 10.0.0.1 on port 1883.
+1535588601: New client connected from 10.0.0.1 as 3a4faacd-7116-4532-bf06-5ffb737342c2 (c1, k60).
+1535588663: Client 3a4faacd-7116-4532-bf06-5ffb737342c2 disconnected.
+1535588681: New connection from 10.0.0.1 on port 1883.
+1535588681: New client connected from 10.0.0.1 as f7c383c4-6f39-49a2-b13e-fbe729373454 (c1, k60).
+1535589220: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535590133: Client f7c383c4-6f39-49a2-b13e-fbe729373454 disconnected.
+1535590140: New connection from 10.0.0.1 on port 1883.
+1535590140: New client connected from 10.0.0.1 as c8e85205-bf8f-4bad-a5f8-3e1dd621a3f9 (c1, k60).
+1535590591: Client c8e85205-bf8f-4bad-a5f8-3e1dd621a3f9 disconnected.
+1535590606: New connection from 10.0.0.1 on port 1883.
+1535590606: New client connected from 10.0.0.1 as 462798f3-fd74-40a0-ba6d-9ac22bed635e (c1, k60).
+1535590754: Client 462798f3-fd74-40a0-ba6d-9ac22bed635e disconnected.
+1535590770: New connection from 10.0.0.1 on port 1883.
+1535590770: New client connected from 10.0.0.1 as 72c97e1f-9091-4902-be65-49a12e8a3388 (c1, k60).
+1535590809: Client 72c97e1f-9091-4902-be65-49a12e8a3388 disconnected.
+1535590815: New connection from 10.0.0.1 on port 1883.
+1535590815: New client connected from 10.0.0.1 as 0f9373a0-9843-4c85-965a-c6d3ece97d7a (c1, k60).
+1535590975: Client 0f9373a0-9843-4c85-965a-c6d3ece97d7a disconnected.
+1535590982: New connection from 10.0.0.1 on port 1883.
+1535590982: New client connected from 10.0.0.1 as 26df11eb-7992-4ff9-bf6b-8d7d1ebcee1d (c1, k60).
+1535591021: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535591607: Client 26df11eb-7992-4ff9-bf6b-8d7d1ebcee1d disconnected.
+1535591616: New connection from 10.0.0.1 on port 1883.
+1535591616: New client connected from 10.0.0.1 as 8cd3bdfc-8da8-46c6-9567-04daf40b9cc6 (c1, k60).
+1535591628: Client 8cd3bdfc-8da8-46c6-9567-04daf40b9cc6 disconnected.
+1535591644: New connection from 10.0.0.1 on port 1883.
+1535591644: New client connected from 10.0.0.1 as 324a8392-3bab-460d-b423-b8eaf0e98cf6 (c1, k60).
+1535592246: Client 324a8392-3bab-460d-b423-b8eaf0e98cf6 disconnected.
+1535592253: New connection from 10.0.0.1 on port 1883.
+1535592253: New client connected from 10.0.0.1 as a33b2b49-72c3-4c70-9d5f-f5f3e9675e40 (c1, k60).
+1535592317: Client a33b2b49-72c3-4c70-9d5f-f5f3e9675e40 disconnected.
+1535592333: New connection from 10.0.0.1 on port 1883.
+1535592333: New client connected from 10.0.0.1 as 7259d458-3975-4b99-94d5-94233dbb6bbe (c1, k60).
+1535592559: Client 7259d458-3975-4b99-94d5-94233dbb6bbe disconnected.
+1535592565: New connection from 10.0.0.1 on port 1883.
+1535592565: New client connected from 10.0.0.1 as c1820297-bedd-4a04-9a06-0324209a010d (c1, k60).
+1535592822: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1535593248: Client c1820297-bedd-4a04-9a06-0324209a010d disconnected.
+1535593254: New connection from 10.0.0.1 on port 1883.
+1535593254: New client connected from 10.0.0.1 as cc35f263-c6c8-4388-a399-c3a6d9d2351b (c1, k60).
+1535593290: Client cc35f263-c6c8-4388-a399-c3a6d9d2351b disconnected.
+1535593309: New connection from 10.0.0.1 on port 1883.
+1535593309: New client connected from 10.0.0.1 as c28f5669-618e-4153-bb12-3f678993441d (c1, k60).
+1535593575: Client c28f5669-618e-4153-bb12-3f678993441d disconnected.
+1535593576: Error in poll: Interrupted system call.
+1535593576: mosquitto version 1.4.12 terminating
+1535594064: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535594064: Config loaded from /mosquitto/config/mosquitto.conf.
+1535594064: Opening ipv4 listen socket on port 1883.
+1535594064: Opening ipv6 listen socket on port 1883.
+1535594066: New connection from 192.168.1.219 on port 1883.
+1535594066: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535594162: New connection from 10.0.0.1 on port 1883.
+1535594162: New client connected from 10.0.0.1 as 5705920d-a1fb-4ef9-8654-b8c935314f6e (c1, k60).
+1535594345: Error in poll: Interrupted system call.
+1535594345: mosquitto version 1.4.12 terminating
+1535594425: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535594425: Config loaded from /mosquitto/config/mosquitto.conf.
+1535594425: Opening ipv4 listen socket on port 1883.
+1535594425: Opening ipv6 listen socket on port 1883.
+1535594426: New connection from 192.168.1.219 on port 1883.
+1535594426: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535594457: New connection from 10.0.0.1 on port 1883.
+1535594457: New client connected from 10.0.0.1 as 76a930f2-84ec-49ee-8d1f-41441cdfd94d (c1, k60).
+1535594895: Client 76a930f2-84ec-49ee-8d1f-41441cdfd94d disconnected.
+1535594896: mosquitto version 1.4.12 terminating
+1535595241: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535595241: Config loaded from /mosquitto/config/mosquitto.conf.
+1535595241: Opening ipv4 listen socket on port 1883.
+1535595241: Opening ipv6 listen socket on port 1883.
+1535595244: New connection from 192.168.1.219 on port 1883.
+1535595244: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535595322: New connection from 10.0.0.1 on port 1883.
+1535595322: New client connected from 10.0.0.1 as 0863aa61-499e-4162-80c4-5eca6bf77712 (c1, k60).
+1535595534: Error in poll: Interrupted system call.
+1535595534: mosquitto version 1.4.12 terminating
+1535595597: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535595597: Config loaded from /mosquitto/config/mosquitto.conf.
+1535595597: Opening ipv4 listen socket on port 1883.
+1535595597: Opening ipv6 listen socket on port 1883.
+1535595599: New connection from 192.168.1.219 on port 1883.
+1535595599: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535595626: New connection from 10.0.0.1 on port 1883.
+1535595626: New client connected from 10.0.0.1 as ca35c53c-314d-421f-a5ff-a17aa67f1f5b (c1, k60).
+1535595704: Client ca35c53c-314d-421f-a5ff-a17aa67f1f5b disconnected.
+1535595704: Error in poll: Interrupted system call.
+1535595704: mosquitto version 1.4.12 terminating
+1535595774: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535595774: Config loaded from /mosquitto/config/mosquitto.conf.
+1535595774: Opening ipv4 listen socket on port 1883.
+1535595774: Opening ipv6 listen socket on port 1883.
+1535595775: New connection from 10.0.0.1 on port 1883.
+1535595775: New client connected from 10.0.0.1 as 9b5ab202-d454-49da-aa1a-fb52a69f959a (c1, k60).
+1535595778: New connection from 192.168.1.219 on port 1883.
+1535595778: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535595892: Client 9b5ab202-d454-49da-aa1a-fb52a69f959a disconnected.
+1535595892: Error in poll: Interrupted system call.
+1535595892: mosquitto version 1.4.12 terminating
+1535595941: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535595941: Config loaded from /mosquitto/config/mosquitto.conf.
+1535595941: Opening ipv4 listen socket on port 1883.
+1535595941: Opening ipv6 listen socket on port 1883.
+1535595942: New connection from 192.168.1.219 on port 1883.
+1535595942: New client connected from 192.168.1.219 as PlopServerArduino (c1, k15).
+1535595963: New connection from 10.0.0.1 on port 1883.
+1535595963: New client connected from 10.0.0.1 as a64a7b5c-347f-49cf-8a55-0c1ee5efa034 (c1, k60).
+1535596342: Client a64a7b5c-347f-49cf-8a55-0c1ee5efa034 disconnected.
+1535596346: mosquitto version 1.4.12 terminating
+1535672665: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535672665: Config loaded from /mosquitto/config/mosquitto.conf.
+1535672665: Opening ipv4 listen socket on port 1883.
+1535672665: Opening ipv6 listen socket on port 1883.
+1535672815: New connection from 10.0.0.1 on port 1883.
+1535672815: New client connected from 10.0.0.1 as 361bc927-481d-4bce-ab5f-54a7b9513459 (c1, k60).
+1535673100: Error in poll: Interrupted system call.
+1535673100: mosquitto version 1.4.12 terminating
+1535673173: mosquitto version 1.4.12 (build date 2017-06-01 13:03:46+0000) starting
+1535673173: Config loaded from /mosquitto/config/mosquitto.conf.
+1535673173: Opening ipv4 listen socket on port 1883.
+1535673173: Opening ipv6 listen socket on port 1883.
+1535673234: New connection from 10.0.0.1 on port 1883.
+1535673234: New client connected from 10.0.0.1 as f42317b1-84e6-4ac5-a51a-daf9b6036206 (c1, k60).
+1535674973: Saving in-memory database to /mosquitto/data/mosquitto.db.

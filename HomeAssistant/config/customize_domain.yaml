@@ -1,0 +1,4 @@
+    switch:
+      icon: mdi:light-switch
+    light:
+      icon: mdi:lightbulb-outline

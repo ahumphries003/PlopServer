@@ -1,0 +1,52 @@
+2018-08-06 20:39:22,143 (7f26c1df1700) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: 200287a (Thu Jul 19 03:16:25 UTC 2018)
+2018-08-06 20:39:22,143 (7f26c1df1700) :  DEBUG (core:361) - Using the elevated policy
+2018-08-06 20:39:22,143 (7f26c1df1700) :  DEBUG (core:450) - Starting runtime component.
+2018-08-06 20:39:22,145 (7f26c1df1700) :  DEBUG (core:450) - Starting caching component.
+2018-08-06 20:39:22,145 (7f26c1df1700) :  DEBUG (core:450) - Starting data component.
+2018-08-06 20:39:22,146 (7f26c1df1700) :  DEBUG (core:450) - Starting networking component.
+2018-08-06 20:39:22,247 (7f26c1df1700) :  DEBUG (networking:284) - Loaded HTTP cookies
+2018-08-06 20:39:22,455 (7f26c1df1700) :  DEBUG (caching:108) - No info file found, trashing the cache folder
+2018-08-06 20:39:22,960 (7f26c1df1700) :  DEBUG (networking:452) - Setting the default network timeout to 20.0
+2018-08-06 20:39:22,961 (7f26c1df1700) :  DEBUG (core:450) - Starting localization component.
+2018-08-06 20:39:22,961 (7f26c1df1700) :  INFO (localization:409) - Setting the default locale to en-us
+2018-08-06 20:39:22,962 (7f26c1df1700) :  DEBUG (core:450) - Starting messaging component.
+2018-08-06 20:39:22,962 (7f26c1df1700) :  DEBUG (core:450) - Starting debugging component.
+2018-08-06 20:39:22,962 (7f26c1df1700) :  DEBUG (core:450) - Starting services component.
+2018-08-06 20:39:22,963 (7f26a9ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.lastfm'
+2018-08-06 20:39:22,963 (7f26c1df1700) :  DEBUG (core:450) - Starting myplex component.
+2018-08-06 20:39:22,964 (7f26c1df1700) :  DEBUG (core:450) - Starting notifications component.
+2018-08-06 20:39:23,128 (7f26c1df1700) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.lastfm in namespace 'metadata'
+2018-08-06 20:39:23,134 (7f26c1df1700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2018-08-06 20:39:23,160 (7f26a9ffb700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-08-06 20:39:23,160 (7f26c1df1700) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2018-08-06 20:39:23,161 (7f26a9ffb700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-08-06 20:39:23,162 (7f26c1df1700) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2018-08-06 20:39:23,163 (7f26c1df1700) :  DEBUG (core:150) - Finished starting framework core
+2018-08-06 20:39:23,163 (7f26c1df1700) :  DEBUG (core:560) - Loading plug-in code
+2018-08-06 20:39:23,164 (7f26a8ff9700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-08-06 20:39:23,344 (7f26a8ff9700) :  DEBUG (core:538) - Machine identifier is c6da242e41bac1d367c91cedb4380517689ececf
+2018-08-06 20:39:23,345 (7f26a8ff9700) :  DEBUG (core:539) - Server version is 1.13.4.5271-200287a06
+2018-08-06 20:39:23,800 (7f26a9ffb700) :  DEBUG (services:362) - Loaded services
+2018-08-06 20:39:23,838 (7f26a97fa700) :  DEBUG (services:438) - No shared code to load
+2018-08-06 20:39:23,871 (7f26c1df1700) :  DEBUG (core:566) - Finished loading plug-in code
+2018-08-06 20:39:23,872 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function ArtistMbidLookup for remote access
+2018-08-06 20:39:23,872 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function GetMusicBrainzId for remote access
+2018-08-06 20:39:23,872 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function ArtistSearch for remote access
+2018-08-06 20:39:23,872 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function AlbumSearch for remote access
+2018-08-06 20:39:23,873 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function ArtistTopTracks for remote access
+2018-08-06 20:39:23,873 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function ArtistGetSimilar for remote access
+2018-08-06 20:39:23,873 (7f26c1df1700) :  DEBUG (messaging:69) - Exposing function ArtistGetEvents for remote access
+2018-08-06 20:39:23,874 (7f26c1df1700) :  DEBUG (agentkit:1115) - Creating new agent class called LastFmAgent
+2018-08-06 20:39:23,875 (7f26c1df1700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Artist'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'sv', 'fr', 'es', 'de', 'pl', 'it', 'pt', 'ja', 'tr', 'ru', 'zh'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Last.fm'}]
+2018-08-06 20:39:23,876 (7f26c1df1700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo1CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdAoyCnMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEwCmlkZW50aWZpZXJyMQpzMTAKYWdlbnRfaW5mbzEKcjIKMTAKcjMKczExCm1lZGlhX3R5cGVzbnMxMgphY2NlcHRzX2Zyb21uczE0CmZhbGxiYWNrX2FnZW50bnMxNApjb250cmlidXRlc190b3I0CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczcKTGFzdC5mbXM0Cm5hbWUxCnM2CkFydGlzdDEyCnMyCmVuczIKc3ZzMgpmcnMyCmVzczIKZGVzMgpwbHMyCml0czIKcHRzMgpqYXMyCnRyczIKcnVzMgp6aHIwCg__'
+2018-08-06 20:39:23,886 (7f26c1df1700) :  DEBUG (agentkit:1115) - Creating new agent class called LastFmAlbumAgent
+2018-08-06 20:39:23,888 (7f26c1df1700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Artist'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'sv', 'fr', 'es', 'de', 'pl', 'it', 'pt', 'ja', 'tr', 'ru', 'zh'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Last.fm'}, {'media_types': ['Album'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'sv', 'fr', 'es', 'de', 'pl', 'it', 'pt', 'ja', 'tr', 'ru', 'zh'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Last.fm'}]
+2018-08-06 20:39:23,889 (7f26c1df1700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo4CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApkaWN0Cmxpc3QKbGlzdAoyCnMyNQpjb20ucGxleGFwcC5hZ2VudHMubGFzdGZtczEwCmlkZW50aWZpZXJyMQpzMTAKYWdlbnRfaW5mbzIKcjIKcjUKMTAKcjMKczExCm1lZGlhX3R5cGVzbnMxMgphY2NlcHRzX2Zyb21uczE0CmZhbGxiYWNrX2FnZW50bnMxNApjb250cmlidXRlc190b3I0CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczcKTGFzdC5mbXM0Cm5hbWUxCnM2CkFydGlzdDEyCnMyCmVuczIKc3ZzMgpmcnMyCmVzczIKZGVzMgpwbHMyCml0czIKcHRzMgpqYXMyCnRyczIKcnVzMgp6aDEwCnI2CnMxMQptZWRpYV90eXBlc25zMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudG5zMTQKY29udHJpYnV0ZXNfdG9yNwpzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMXMxNgpwcmltYXJ5X3Byb3ZpZGVyYjFzNQpwcmVmc3M3Ckxhc3QuZm1zNApuYW1lMQpzNQpBbGJ1bTEyCnMyCmVuczIKc3ZzMgpmcnMyCmVzczIKZGVzMgpwbHMyCml0czIKcHRzMgpqYXMyCnRyczIKcnVzMgp6aHIwCg__'
+2018-08-06 20:39:23,967 (7f26c1df1700) :  INFO (core:611) - Started plug-in
+2018-08-06 20:39:23,967 (7f26c1df1700) :  DEBUG (socketinterface:160) - Starting socket server
+2018-08-06 20:39:23,969 (7f26c1df1700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-08-06 20:39:23,969 (7f26c1df1700) :  INFO (socketinterface:184) - Socket server started on port 39579
+2018-08-06 20:39:23,970 (7f26c1df1700) :  INFO (pipeinterface:25) - Entering run loop
+2018-08-06 20:39:23,971 (7f26c1df1700) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2018-08-06 20:39:23,973 (7f26c1df1700) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2018-08-06 20:39:23,974 (7f26c1df1700) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 150 bytes
