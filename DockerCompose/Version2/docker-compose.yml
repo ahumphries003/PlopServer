@@ -1,4 +1,4 @@
-version: '3.3'
+version: '2'
 services:
   plexmediaserver:
     container_name: PlexMediaServer
@@ -249,4 +249,4 @@ networks:
       driver: default
       config:
       - subnet: 10.0.0.0/16
-#        gateway: 10.0.0.1
+        gateway: 10.0.0.1
