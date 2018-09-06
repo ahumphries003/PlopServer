@@ -196,9 +196,9 @@ services:
     ports:
       - "8123:8123"
     network_mode: host
-    networks:
-      homenet:
-        ipv4_address: 10.0.0.11
+#    networks:
+#      homenet:
+#        ipv4_address: 10.0.0.11
   lazylibrarian:
     container_name: LazyLibrarian
     image: linuxserver/lazylibrarian:latest
