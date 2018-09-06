@@ -81,61 +81,61 @@ script: !include scripts.yaml
 panel_iframe:
   plexmediaserver:
     title: 'Plex Media Server'
-    url: 'http://10.0.0.2:32400/web/'
+    url: 'http://192.168.1.222:32400/web/'
     icon: mdi:youtube-tv
   radarr:
     title: 'Radarr'
-    url: 'http://10.0.0.4:7878/'
+    url: 'http://192.168.1.222:7878/'
     icon: mdi:video
   sonarr:
     title: 'Sonarr'
-    url: 'http://10.0.0.5:8989/'
+    url: 'http://192.168.1.222:8989/'
     icon: mdi:television
   headphones:
     title: 'Headphones'
-    url: 'http://10.0.0.6:8181/'
+    url: 'http://192.168.1.222:8181/'
     icon: mdi:music
   lazylabrarian:
     title: 'Lazy Librarian'
-    url: 'http://10.0.0.12:5299/'
+    url: 'http://192.168.1.222:5299/'
     icon: mdi:book-open-page-variant
   nextcloud:
     title: 'NextCould'
-    url: 'http://10.0.0.10:80/'
+    url: 'http://192.168.1.222:800/'
     icon: mdi:file-cloud
   transmission:
     title: 'Transmission'
-    url: 'http://10.0.0.3:9091/'
+    url: 'http://192.168.1.222:9091/'
     icon: mdi:download
   jackett:
     title: 'Jackett'
-    url: 'http://10.0.0.7:9117/'
+    url: 'http://192.168.1.222:9117/'
     icon: mdi:arrow-collapse-all
 weblink:
   entities:
     - name: Plex Media Server
-      url: http://10.0.0.2:32400/web/
+      url: http://192.168.1.222:32400/web/
       icon: mdi:youtube-tv
     - name: Transmission (Downloads)
-      url: http://10.0.0.3:9091/
+      url: http://192.168.1.222:9091/
       icon: mdi:download
     - name: Radarr (Add Movies)
-      url: http://10.0.0.4:7878/
+      url: http://192.168.1.222:7878/
       icon: mdi:video
     - name: Sonarr (Add TV Series)
-      url: http://10.0.0.5:8989/
+      url: http://192.168.1.222:8989/
       icon: mdi:television
     - name: Headphones (Add Music)
-      url: http://10.0.0.6:8181/
+      url: http://192.168.1.222:8181/
       icon: mdi:music
     - name: Jackett (Indexers)
-      url: http://10.0.0.7:9117/
+      url: http://192.168.1.222:9117/
       icon: mdi:arrow-collapse-all
     - name: NextCloud
-      url: http://10.0.0.10:80/
+      url: http://192.168.1.222:800/
       icon: mdi:file-cloud
     - name: Lazy Librarian (Add eBooks)
-      url: http://10.0.0.12:5299/
+      url: http://192.168.1.222:5299/
       icon: mdi:book-open-page-variant
 weather:
   - platform: openweathermap
@@ -229,67 +229,67 @@ switch:
 #    name: Master Bedroom Light
 #    host: 192.168.1.104
   - platform: rest
-    resource: http://192.168.1.247:8126/container/HomeAssistant
+    resource: http://192.168.1.222:8126/container/HomeAssistant
     name: Home Assistant
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/PlexMediaServer
+    resource: http://192.168.1.222:8126/container/PlexMediaServer
     name: Plex Media Server
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/Radarr
+    resource: http://192.168.1.222:8126/container/Radarr
     name: Radarr
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/Sonarr
+    resource: http://192.168.1.222:8126/container/Sonarr
     name: Sonarr
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/Headphones
+    resource: http://192.168.1.222:8126/container/Headphones
     name: Headphones
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/LazyLibrarian
+    resource: http://192.168.1.222:8126/container/LazyLibrarian
     name: Lazy Librarian
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/Transmission
+    resource: http://192.168.1.222:8126/container/Transmission
     name: Transmission
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/Jackett
+    resource: http://192.168.1.222:8126/container/Jackett
     name: Jackett
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/NextCloud
+    resource: http://192.168.1.222:8126/container/NextCloud
     name: NextCloud
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/dockercompose_db_1
+    resource: http://192.168.1.222:8126/container/dockercompose_db_1
     name: NextCloud DB
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
     is_on_template: '{{ value_json is not none and value_json.state == "running" }}'
   - platform: rest
-    resource: http://192.168.1.247:8126/container/Mosquitto
+    resource: http://192.168.1.222:8126/container/Mosquitto
     name: Mosquitto
     body_on: '{"state": "start"}'
     body_off: '{"state": "stop"}'
