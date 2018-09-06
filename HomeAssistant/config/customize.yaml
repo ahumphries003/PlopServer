@@ -1,0 +1,22 @@
+switch.headphones:
+  icon: mdi:server
+switch.home_assistant:
+  icon: mdi:server
+switch.jackett:
+  icon: mdi:server
+switch.radarr:
+  icon: mdi:server
+switch.sonarr:
+  icon: mdi:server
+switch.lazy_librarian:
+  icon: mdi:server
+switch.nextcloud:
+  icon: mdi:server
+switch.nextcloud_db:
+  icon: mdi:server
+switch.mosquitto:
+  icon: mdi:server
+switch.plex_media_server:
+  icon: mdi:server
+switch.transmission:
+  icon: mdi:server
