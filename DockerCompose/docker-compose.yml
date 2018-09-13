@@ -3,12 +3,12 @@ services:
   plexmediaserver:
     container_name: PlexMediaServer
     restart: unless-stopped
+    network_mode: host
     image: linuxserver/plex:latest
     environment:
       - TZ=America/Chicago
       - VERSION=latest
-      - PLEX_CLAIM="claim-wPH9wmSvx1frsxFuR3is"
-      - network_mode=host
+      - PLEX_CLAIM=""
     ports:
       - "32400:32400" #(for access to the Plex Media Server) [required]
     volumes:
@@ -18,9 +18,9 @@ services:
       - /mnt/md0/docker/PlopServer/PlexMediaServer/Media/Music:/data/music
       - /mnt/md0/docker/PlopServer/PlexMediaServer/Media/HomeMedia:/data/homemedia
       - /mnt/md0/docker/PlopServer/PlexMediaServer/Media/Photos:/data/photos
-    networks:
-      homenet:
-        ipv4_address: 10.0.0.2
+#    networks:
+#      homenet:
+#        ipv4_address: 10.0.0.2
   plextransmission:
     container_name: Transmission
     image: haugene/transmission-openvpn
