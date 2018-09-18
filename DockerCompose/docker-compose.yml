@@ -3,12 +3,14 @@ services:
   plexmediaserver:
     container_name: PlexMediaServer
     restart: unless-stopped
-    network_mode: host
     image: linuxserver/plex:latest
+    network_mode: host
     environment:
       - TZ=America/Chicago
       - VERSION=latest
       - PLEX_CLAIM=""
+      - PLEX_UID=1000
+      - PLEX_GID=1001
     ports:
       - "32400:32400" #(for access to the Plex Media Server) [required]
     volumes:
@@ -88,8 +90,8 @@ services:
       homenet:
         ipv4_address: 10.0.0.5
     environment:
-      - PGID=1001
       - PUID=1000
+      - PGID=1001
       - TZ=America/Chicago
     volumes:
       - /mnt/md0/docker/PlopServer/Sonarr/config:/config
@@ -105,8 +107,8 @@ services:
       homenet:
         ipv4_address: 10.0.0.6
     environment:
-      - PGID=1001
       - PUID=1000
+      - PGID=1001
       - TZ=America/Chicago
     volumes:
       - /mnt/md0/docker/PlopServer/Headphones/config:/config
@@ -119,8 +121,8 @@ services:
     networks:
       - homenet
     environment:
-      - PGID=1000
-      - PUID=1001
+      - PUID=1000
+      - PGID=1001
       - TZ=America/Chicago
     volumes:
       - /mnt/md0/docker/PlopServer/Jackett/config:/config
@@ -138,8 +140,8 @@ services:
       - MYSQL_USER=administrator
       - MYSQL_PASSWORD=Humps003
       - MYSQL_ROOT_PASSWORD=root
-      - PGID=1001
       - PUID=1000
+      - PGID=1001
     volumes:
       - /mnt/md0/docker/PlopServer/NextCloud/db:/var/lib/mysql
     ports:
@@ -177,8 +179,8 @@ services:
       - /mnt/md0/docker/PlopServer/PlexMediaServer/Media:/mnt/md0/plex/PlexMediaServer
     restart: always
     environment:
-      - PGID=1001
       - PUID=1000
+      - PGID=1001
       - MYSQLDATABASE=nextcloud
       - MYSQLUSER=administrator
       - MYSQL_PASSWORD=Humps003
@@ -208,8 +210,8 @@ services:
       - /mnt/md0/docker/PlopServer/LazyLibrarian/downloads:/downloads
     restart: unless-stopped
     environment:
-      - PGID=1001
       - PUID=1000
+      - PGID=1001
       - TZ=CST
     ports:
       - "5299:5299"
